@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.exe
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.deps.json
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.runtimeconfig.json
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.dll
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\bin\Debug\netcoreapp3.0\CSharpAdvancedTopics.pdb
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\obj\Debug\netcoreapp3.0\CSharpAdvancedTopics.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\obj\Debug\netcoreapp3.0\CSharpAdvancedTopics.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\obj\Debug\netcoreapp3.0\CSharpAdvancedTopics.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\obj\Debug\netcoreapp3.0\CSharpAdvancedTopics.dll
+C:\Users\user\source\repos\CSharpAdvancedTopics\CSharpAdvancedTopics\obj\Debug\netcoreapp3.0\CSharpAdvancedTopics.pdb
